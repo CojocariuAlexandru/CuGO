@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1546102881 source:d:\work\game2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<graphics.h>
+	<winbgim.h>
+	<queue>
+	"InitializariVariabile.h"
+	"Functii.h"
+
+1546103524 d:\work\game2\initializarivariabile.h
+
+1545823471 d:\work\game2\functii.h
+	"animatieInceput.h"
+	"tutorial.h"
+	"initializariJoc.h"
+	"mouseAndClicks.h"
+	"jocCalculatorEasy.h"
+	"jocCalculatorHard.h"
+
+1546099389 d:\work\game2\animatieinceput.h
+
+1545824214 d:\work\game2\tutorial.h
+
+1545824098 d:\work\game2\initializarijoc.h
+
+1545808923 d:\work\game2\mouseandclicks.h
+
+1545817055 d:\work\game2\joccalculatoreasy.h
+
+1546103525 d:\work\game2\joccalculatorhard.h
+
+1546855968 source:d:\work\cugo\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<graphics.h>
+	<winbgim.h>
+	<queue>
+	<windows.h>
+	<mmsystem.h>
+	"InitializariVariabile.h"
+	"Functii.h"
+
+1546440742 d:\work\cugo\initializarivariabile.h
+
+1546856057 d:\work\cugo\functii.h
+	"animatieInceput.h"
+	"tutorial.h"
+	"initializariJoc.h"
+	"mouseAndClicks.h"
+	"jocCalculatorEasy.h"
+	"jocCalculatorHard.h"
+
+1546854141 d:\work\cugo\animatieinceput.h
+	<cstring>
+
+1546363981 d:\work\cugo\tutorial.h
+
+1546442754 d:\work\cugo\initializarijoc.h
+
+1546766544 d:\work\cugo\mouseandclicks.h
+
+1545817055 d:\work\cugo\joccalculatoreasy.h
+
+1546766738 d:\work\cugo\joccalculatorhard.h
+
